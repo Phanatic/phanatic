@@ -3,7 +3,6 @@ I am obsessed with my dog, a 17 lbs Shiba Inu, Jalebi.
 ![IMG_0291](https://user-images.githubusercontent.com/82819/83670397-b6e08180-a598-11ea-9039-98e3e7b425fa.jpg)
 
 My wife and I have tattoos of her. Ask me for mine when you see me.
-My wife is a practicing midwife and we live in sunny Minneapolis.
 
 In the last couple of months, I've gotten into sewing and aim to have all of my wardrobe be self made.
 I love swing dancing, Muay Thai and cooking. My desire to have this be the year of the six pack is always offset by my desire to have this be the year of Nachos, Cakes and burgers.
