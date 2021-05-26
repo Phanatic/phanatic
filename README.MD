@@ -17,5 +17,6 @@ At GitHub, I have:
 * Worked on Actions
 * Worked on DreamLifter v1 & v2
 * Worked on the Code Search re-architecture.
+* Shipping Actions & Packages to GHES.
 
-Currently working on shipping Actions & Packages to GHES.
+I currently work on Databases at [PlanetScale](https://www.planetscale.com/)
