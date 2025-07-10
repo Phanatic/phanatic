@@ -19,4 +19,4 @@ At GitHub, I have:
 * Worked on the Code Search re-architecture.
 * Shipping Actions & Packages to GHES.
 
-I currently work on Databases at [PlanetScale](https://www.planetscale.com/)
+I currently work at [Supernormal](https://supernormal.com/)
